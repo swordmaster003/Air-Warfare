@@ -15,8 +15,6 @@ You can download this asset from Unity Asset Store:
 
 ## Online Documents:
 
-## Online Documents:
-
 [Air Warfare Manual](https://www.swordmaster.info/documents/unity-assets-documents/air-warfare-manual-document/)
 
 [Air Warfare Script Fields Introduction](https://www.swordmaster.info/documents/unity-assets-documents/air-warfare-script-fields-introduction/)
