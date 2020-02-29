@@ -15,11 +15,11 @@ You can download this asset from Unity Asset Store:
 
 ## Control
 
-![image](https://github.com/swordmaster003/Air-Warfare/blob/master/Screenshots/ControlOnPC.png)
 <center>Control On PC</center>
+![image](https://github.com/swordmaster003/Air-Warfare/blob/master/Screenshots/ControlOnPC.png)
 
-![image](https://github.com/swordmaster003/Air-Warfare/blob/master/Screenshots/ControlOnMobile.png)
 <center>Control On Mobile</center>
+![image](https://github.com/swordmaster003/Air-Warfare/blob/master/Screenshots/ControlOnMobile.png)
 
 ## Online Documents:
 
