@@ -15,18 +15,11 @@ You can download this asset from Unity Asset Store:
 
 ## Control
 
-<center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://github.com/swordmaster003/Air-Warfare/blob/master/Screenshots/ControlOnPC.png">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">Control On PC</div>
-</center>
+![image](https://github.com/swordmaster003/Air-Warfare/blob/master/Screenshots/ControlOnPC.png)
+<center>Control On PC</center>
 
-![Control On Mobile](https://github.com/swordmaster003/Air-Warfare/blob/master/Screenshots/ControlOnMobile.png)
+![image](https://github.com/swordmaster003/Air-Warfare/blob/master/Screenshots/ControlOnMobile.png)
+<center>Control On Mobile</center>
 
 ## Online Documents:
 
