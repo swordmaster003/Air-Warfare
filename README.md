@@ -30,9 +30,6 @@ You can download this asset from Unity Asset Store:
 [Air Warfare Script Fields Introduction](https://www.swordmaster.info/documents/unity-assets-documents/air-warfare-script-fields-introduction/)
 
 ## Description:
-<BR>
-The Air Warfare is an air combat game template and it supports running on mobile devices.
-</BR>
 </BR>
 This template was developed based on 
 <a href=
