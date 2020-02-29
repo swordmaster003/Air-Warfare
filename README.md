@@ -23,35 +23,17 @@ You can download this asset from Unity Asset Store:
 
 ![image](https://github.com/swordmaster003/Air-Warfare/blob/master/Screenshots/ControlOnMobile.png)
 
-## Online Documents:
+## Online Documents
 
 [Air Warfare Manual](https://www.swordmaster.info/documents/unity-assets-documents/air-warfare-manual-document/)
 
 [Air Warfare Script Fields Introduction](https://www.swordmaster.info/documents/unity-assets-documents/air-warfare-script-fields-introduction/)
 
-## Description:
-</BR>
-This template was developed based on 
-<a href=
-"https://assetstore.unity.com/packages/slug/154370">
-The Fighter Complete Template
-</a> 
-</BR>
+## Features
 
 </BR>
 In this template, it not only contains 34 different types of Player Fighters, but also includes 34 different types of AI Fighters
 </BR>
-
-<BR>
-It can help you create your own fighter game easily.
-</BR>
-
-<BR>
-<STRONG>
-Features:
-</STRONG>
-</BR>
-
 
 
 <BR>
