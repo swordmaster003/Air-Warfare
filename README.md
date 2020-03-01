@@ -63,8 +63,6 @@ In this template, it not only contains 34 different types of Player Fighters, bu
   ![image](https://github.com/swordmaster003/Air-Warfare/blob/master/Screenshots/MachineGun1.png)
   
 - The Fighter Missile System has two working modes:
-
-  ![image](https://github.com/swordmaster003/Air-Warfare/blob/master/Screenshots/MissileLocked.png)
   
   (1).One mode is called Single-Target mode,which means only one attack target can be locked at once and the missile you will launch is called the general missle(this missile is a short range missile). 
 
