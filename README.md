@@ -31,13 +31,6 @@ You can download this asset from Unity Asset Store:
 
 ## Features
 
-</BR>
-In this template, it not only contains 34 different types of Player Fighters, but also includes 34 different types of AI Fighters
-</BR>
-
-
-## Features
-
 - In this template, it not only contains many different types of Player Fighters, but also includes 34 different types of AI Fighters.
 
 - The Fighter Flight System is designed according to the aerodynamics of modern fighter.
@@ -134,4 +127,3 @@ In this template, it not only contains 34 different types of Player Fighters, bu
  - Fighter Radar System.
  - Fighter Satelite System.
  - Fighter Switcher.
-</BR>
